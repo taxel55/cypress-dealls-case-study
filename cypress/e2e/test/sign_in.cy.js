@@ -10,4 +10,8 @@ describe('Test Login Flow', () => {
         SignIn.SignInAsMentee('joni@mail.com' , 'Joni123.')
     });
 
+    it('Login as Mentor', () => {
+        SignIn.SignInAsMentor('jonisetiawan@mail.com' , 'Joni123.')
+    });
+
 });

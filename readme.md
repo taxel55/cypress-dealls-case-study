@@ -9,8 +9,8 @@ This repository contains end-to-end (E2E) test cases for the Dealls web applicat
 #test-cases
 - Register as Mentor 
 - Register as Mentee
-- Login as Mentor
-- Login as Mentee
+- Login / Sign In as Mentor
+- Login / Sign In as Mentee
 - Book Mentoring Session
 
 #usage
